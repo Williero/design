@@ -1,0 +1,43 @@
+
+
+
+
+  
+.all-books {padding-bottom: 140px;}
+.book-row  {padding-bottom: 480px;}
+.bookpage  {padding: 150px 0px 220px;}
+.download-options {padding: 30px 0px 80px;}
+.footer-copy {padding-top: 30px;}
+.logo      {padding: 60px 0px 40px;}
+.book-meta {color: #a5a5a5;}
+td      {background-color: #f9f9f9;}
+thead   {background-color: #3498db;}
+th      {color: #ffffff;}
+.tab-pane {padding: 30px;}
+.help-options {padding-bottom: 200px;}
+.books {padding: 20px;}
+
+.top-logo {
+background-color:#3498db;
+padding: 10px;
+padding-left: 100px;
+  
+}
+
+
+
+
+
+close {
+position: absolute;
+right: 5px;
+}
+
+
+
+.site-footer {  
+padding: 60px;
+
+  }
+  
+
